@@ -1,1 +1,1 @@
-This is to check the git commands.
+o check the git commands.
